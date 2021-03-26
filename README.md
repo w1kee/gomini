@@ -2,6 +2,6 @@
 
 a gemini server written in Go.
 
-# license
+## license
 
 this software is licensed under GPLv3
